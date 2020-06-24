@@ -1,2 +1,15 @@
 source,target,value
-Income,Expenses,10
+Income,Food,1
+Income,Rent,1
+Income,Gas,1
+Income,Cell,1
+Income,Subscription,4
+Income,Unassigned,1
+Income,Funds,3
+Subscription,AMEX1,1
+Subscription,AMEX2,1
+Subscription,BoA,1
+Subscription,Citi,1
+Funds,Fund1,1
+Funds,Fund2,1
+Funds,Fund3,1
